@@ -7,7 +7,7 @@ This plugin allows you to download a list of WarpScript lists in CSV format. The
 
 ```npm install @hexa-ai/discovery-plugin-csv-export```
 
-## Use
+## Exemple
 
 ```
 <!DOCTYPE html>
