@@ -1,8 +1,7 @@
 # Discovery-plugin-csv-export
 
 Plugin for the dashborad as code Discovery tool from SenX company.
-
-This plugin allows you to download a list of WarpScript lists in CSV format. The rendered tile displays a button for downloading. The separator used is the comma.
+This plugin allows you to download a list of WarpScript lists in CSV format. The rendered tile displays a button for downloading. The separator used in the CSV is the comma.
 
 ## Installation
 
