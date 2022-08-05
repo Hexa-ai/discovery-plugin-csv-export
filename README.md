@@ -1,6 +1,7 @@
 # Discovery-plugin-csv-export
 
-![npm version](https://badge.fury.io/js/@hexa-ai%2Fdiscovery-plugin-csv-export.svg)](https://badge.fury.io/js/@hexa-ai%2Fdiscovery-plugin-csv-export)
+[![npm version](https://badge.fury.io/js/@hexa-ai%2Fdiscovery-plugin-csv-export.svg)](https://badge.fury.io/js/@hexa-ai%2Fdiscovery-plugin-csv-export)
+
 
 Plugin for the dashborad as code Discovery tool from SenX company.
 
