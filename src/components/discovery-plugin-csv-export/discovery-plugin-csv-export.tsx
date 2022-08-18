@@ -78,8 +78,9 @@ export class DiscoveryPluginCsvExport {
   componentDidLoad() {
     setTimeout(() => this.processTile(), 1000);
   }
+
   toCSV(inputArray, separator = ",") {
-    let rowsAsString = inputArray.map(row => {
+    let rowsAsString = inputArray.map((row) => {
       return row.join(separator);
     })
     const csvFormat = rowsAsString.join("\n");
@@ -112,7 +113,7 @@ export class DiscoveryPluginCsvExport {
     this.innerOptions = { ...options };
 
     // Format CSV
-    var csv = this.toCSV(this.innerResult.data[0], ',')
+    var csv = this.toCSV(this.innerResult.data, ',')
 
     var myBlob = new Blob([csv], { type: "text/csv" });
 

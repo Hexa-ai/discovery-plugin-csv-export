@@ -1,6 +1,13 @@
 # Discovery-plugin-csv-export
 
+[![npm version](https://badge.fury.io/js/@hexa-ai%2Fdiscovery-plugin-csv-export.svg)](https://badge.fury.io/js/@hexa-ai%2Fdiscovery-plugin-csv-export)
+
+
 Plugin for the dashborad as code Discovery tool from SenX company.
+
+## Démo
+
+https://jsfiddle.net/jtalbourdet/bqrs9yvm/1/
 
 ## Installation
 
@@ -20,9 +27,9 @@ Plugin for the dashborad as code Discovery tool from SenX company.
     <script nomodule src="https://unpkg.com/@senx/discovery-widgets/dist/discovery/discovery.js"></script>
     <script type="module" src="https://unpkg.com/@senx/discovery-widgets/dist/discovery/discovery.esm.js"></script>
 
-<!-- Import your plugin -->
-    <script type="module" src="./build/discovery-plugin-csv-export.esm.js"></script>
-    <script nomodule src="./build/discovery-plugin-csv-export.js"></script>
+<!-- Import discovery-plugin-csv-export -->
+     <script nomodule src="https://unpkg.com/@hexa-ai/discovery-plugin-csv-export/dist/discovery-plugin-csv-export/discovery-plugin-csv-export.js"></script>
+  <script type="module" src="https://unpkg.com/@hexa-ai/discovery-plugin-csv-export/dist/discovery-plugin-csv-export/discovery-plugin-csv-export.esm.js"></script>
 
  </head>
   <body>
