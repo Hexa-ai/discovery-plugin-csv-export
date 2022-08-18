@@ -1,5 +1,5 @@
 {
-  "name": "discovery-plugin-csv-export",
+  "name": "@hexa-ai/discovery-plugin-csv-export",
   "author": "Julien TALBOURDET",
   "version": "1.0.3",
   "description": "Stencil Component Starter",
