@@ -7,7 +7,7 @@ Plugin for the dashborad as code Discovery tool from SenX company.
 
 ## Démo
 
-https://jsfiddle.net/jtalbourdet/bqrs9yvm/1/
+https://jsfiddle.net/jtalbourdet/bqrs9yvm/7/
 
 ## Installation
 
